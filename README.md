@@ -202,3 +202,6 @@ This repository serves as the official landing page for HeidiSQL. The software i
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of HeidiSQL today!**
+
+---
+**Last updated:** 2026-11-06 14:55:15 UTC
