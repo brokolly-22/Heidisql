@@ -204,4 +204,4 @@ This repository serves as the official landing page for HeidiSQL. The software i
 **Get the most recent version of HeidiSQL today!**
 
 ---
-**Last updated:** 2026-11-12 17:29:48 UTC
+**Last updated:** 2026-11-12 23:27:09 UTC
